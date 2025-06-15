@@ -1,4 +1,4 @@
-package cacherefresh_git
+package cacherefresh
 
 import (
 	"errors"
